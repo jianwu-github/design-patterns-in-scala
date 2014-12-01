@@ -21,9 +21,12 @@ Singleton pattern describes a type that can only have one object constructed for
 ####2. Structural Patterns
 
 
+2.1 Proxy
+
+Proxy pattern lets clients to access the real Service/Object indirectly through a placeholder object or proxy; so, if requiring protection, access control can be applied through proxy. 
 
 
-####3. Behavioural Pattern 
+####3. Behavioural Patterns 
 
 
 3.1 Observer Pattern
